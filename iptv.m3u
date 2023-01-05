@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:0,TLC 
 https://tv.ensonhaber.com/tv/tr/tlc/index.m3u8
+#EXTINF:0,Star
+http://188.40.186.158:8080/hls/star/playlist.m3u8
